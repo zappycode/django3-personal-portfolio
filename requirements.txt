@@ -3,3 +3,4 @@ Django==3.0.3
 Pillow==7.0.0
 pytz==2019.3
 sqlparse==0.3.0
+local_setting
